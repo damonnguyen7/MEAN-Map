@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/damonnguyen92/MEAN-Map/issues"
   },
-  "homepage": "https://github.com/damonnguyen92/MEAN-Map#readme"
+  "homepage": "https://github.com/damonnguyen92/MEAN-Map#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "jsonwebtoken": "^7.1.9",
+    "method-override": "^2.3.6",
+    "mongoose": "^4.6.3",
+    "morgan": "^1.7.0"
+  }
 }
